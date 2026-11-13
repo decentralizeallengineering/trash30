@@ -54,3 +54,8 @@ pip install -e ".[test]" && pytest
 ```
 
 Licence: Apache-2.0.
+
+## Related
+
+- [addonly](https://github.com/decentralizeallengineering/addonly): the other half, a folder you only ever add to
+- [all tools](https://github.com/decentralizeallengineering): the index of this account
